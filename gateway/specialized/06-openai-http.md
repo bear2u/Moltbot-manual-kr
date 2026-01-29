@@ -1,3 +1,8 @@
+---
+layout: default
+title: Openai Http
+---
+
 # OpenAI 호환 HTTP API
 
 **작성일**: 2026-01-28  

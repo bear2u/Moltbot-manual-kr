@@ -1,3 +1,8 @@
+---
+layout: default
+title: Server Components Overview
+---
+
 # 서버 내부 컴포넌트 개요
 
 **작성일**: 2026-01-28  

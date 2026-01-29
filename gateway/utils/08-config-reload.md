@@ -1,3 +1,8 @@
+---
+layout: default
+title: Config Reload
+---
+
 # 설정 리로드 시스템
 
 **작성일**: 2026-01-28  

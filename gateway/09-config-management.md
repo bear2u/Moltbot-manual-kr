@@ -1,3 +1,8 @@
+---
+layout: default
+title: Config Management
+---
+
 # 설정 관리 및 핫 리로드
 
 **작성일**: 2026-01-28  

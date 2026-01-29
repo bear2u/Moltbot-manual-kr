@@ -1,3 +1,8 @@
+---
+layout: default
+title: Exec Approval
+---
+
 # Exec Approval 시스템
 
 **작성일**: 2026-01-28  

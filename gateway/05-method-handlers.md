@@ -1,3 +1,8 @@
+---
+layout: default
+title: Method Handlers
+---
+
 # 메서드 핸들러 시스템
 
 **작성일**: 2026-01-28  

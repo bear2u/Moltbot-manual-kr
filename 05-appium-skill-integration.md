@@ -1,3 +1,8 @@
+---
+layout: default
+title: Appium Skill Integration
+---
+
 # Appium을 이용한 모바일 앱 자동화 스킬 통합 가이드
 
 **작성일**: 2026-01-28  

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Chat Handlers
+---
+
 # Chat 메서드 핸들러
 
 **작성일**: 2026-01-28  

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Android Emulator Browser Automation
+---
+
 # 안드로이드 모바일 앱 자동화 가이드
 
 **작성일**: 2026-01-28  

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Node Management
+---
+
 # 노드 관리 및 페어링
 
 **작성일**: 2026-01-28  

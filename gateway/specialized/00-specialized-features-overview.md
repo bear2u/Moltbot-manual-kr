@@ -1,3 +1,8 @@
+---
+layout: default
+title: Specialized Features Overview
+---
+
 # Gateway 특수 기능 개요
 
 **작성일**: 2026-01-28  

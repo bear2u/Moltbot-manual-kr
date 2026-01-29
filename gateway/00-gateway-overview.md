@@ -1,3 +1,8 @@
+---
+layout: default
+title: Gateway Overview
+---
+
 # Gateway 개요 및 아키텍처
 
 **작성일**: 2026-01-28  

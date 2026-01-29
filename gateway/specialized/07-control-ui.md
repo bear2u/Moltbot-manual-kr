@@ -1,3 +1,8 @@
+---
+layout: default
+title: Control Ui
+---
+
 # Control UI 서빙
 
 **작성일**: 2026-01-28  

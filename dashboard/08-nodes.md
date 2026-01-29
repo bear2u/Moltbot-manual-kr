@@ -1,3 +1,8 @@
+---
+layout: default
+title: Nodes
+---
+
 # Nodes 기능 상세 분석
 
 **작성일**: 2026-01-28  

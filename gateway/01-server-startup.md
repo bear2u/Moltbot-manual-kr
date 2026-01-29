@@ -1,3 +1,8 @@
+---
+layout: default
+title: Server Startup
+---
+
 # Gateway 서버 시작 및 초기화
 
 **작성일**: 2026-01-28  

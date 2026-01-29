@@ -1,3 +1,8 @@
+---
+layout: default
+title: Methods Overview
+---
+
 # Gateway 메서드 핸들러 개요
 
 **작성일**: 2026-01-28  

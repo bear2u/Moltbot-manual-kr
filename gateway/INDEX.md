@@ -1,3 +1,8 @@
+---
+layout: default
+title: INDEX
+---
+
 # Gateway 문서 상세 인덱스
 
 **최종 업데이트**: 2026-01-28

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Session Utils Detail
+---
+
 # 세션 유틸리티 상세
 
 **작성일**: 2026-01-28  

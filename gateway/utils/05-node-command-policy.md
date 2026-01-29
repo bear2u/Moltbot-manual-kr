@@ -1,3 +1,8 @@
+---
+layout: default
+title: Node Command Policy
+---
+
 # 노드 명령 정책
 
 **작성일**: 2026-01-28  

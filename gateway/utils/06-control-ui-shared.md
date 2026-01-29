@@ -1,3 +1,8 @@
+---
+layout: default
+title: Control Ui Shared
+---
+
 # Control UI 공유 유틸리티
 
 **작성일**: 2026-01-28  

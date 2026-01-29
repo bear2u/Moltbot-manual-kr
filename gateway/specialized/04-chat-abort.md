@@ -1,3 +1,8 @@
+---
+layout: default
+title: Chat Abort
+---
+
 # 채팅 중단 시스템
 
 **작성일**: 2026-01-28  

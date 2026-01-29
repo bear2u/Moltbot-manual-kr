@@ -1,3 +1,8 @@
+---
+layout: default
+title: Missing Documentation Analysis
+---
+
 # 빠진 문서 분석
 
 **작성일**: 2026-01-28  

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Http Utils
+---
+
 # HTTP 유틸리티
 
 **작성일**: 2026-01-28  

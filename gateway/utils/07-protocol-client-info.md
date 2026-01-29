@@ -1,3 +1,8 @@
+---
+layout: default
+title: Protocol Client Info
+---
+
 # 프로토콜 클라이언트 정보
 
 **작성일**: 2026-01-28  

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Websocket Protocol
+---
+
 # WebSocket 프로토콜 및 연결 처리
 
 **작성일**: 2026-01-28  

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Device Auth
+---
+
 # 디바이스 인증 페이로드
 
 **작성일**: 2026-01-28  

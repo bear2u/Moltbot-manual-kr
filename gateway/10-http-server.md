@@ -1,3 +1,8 @@
+---
+layout: default
+title: Http Server
+---
+
 # HTTP 서버 및 엔드포인트
 
 **작성일**: 2026-01-28  

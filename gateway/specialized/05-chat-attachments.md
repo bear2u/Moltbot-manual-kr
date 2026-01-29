@@ -1,3 +1,8 @@
+---
+layout: default
+title: Chat Attachments
+---
+
 # 채팅 첨부파일 처리
 
 **작성일**: 2026-01-28  

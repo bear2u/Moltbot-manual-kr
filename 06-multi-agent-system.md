@@ -1,3 +1,8 @@
+---
+layout: default
+title: Multi Agent System
+---
+
 # 멀티 에이전트 시스템 가이드
 
 **작성일**: 2026-01-28  

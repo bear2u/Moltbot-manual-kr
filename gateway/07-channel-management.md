@@ -1,3 +1,8 @@
+---
+layout: default
+title: Channel Management
+---
+
 # 채널 관리
 
 **작성일**: 2026-01-28  

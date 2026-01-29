@@ -1,3 +1,8 @@
+---
+layout: default
+title: Authentication
+---
+
 # Gateway 인증 및 보안
 
 **작성일**: 2026-01-28  

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project Overview
+---
+
 # Moltbot 프로젝트 전체 분석
 
 **작성일**: 2026-01-28  

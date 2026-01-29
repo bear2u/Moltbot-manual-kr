@@ -1,3 +1,8 @@
+---
+layout: default
+title: Event Broadcasting
+---
+
 # 이벤트 브로드캐스팅 시스템
 
 **작성일**: 2026-01-28  

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Utils Overview
+---
+
 # Gateway 유틸리티 함수 개요
 
 **작성일**: 2026-01-28  

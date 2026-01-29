@@ -1,3 +1,8 @@
+---
+layout: default
+title: Dashboard Overview
+---
+
 # Gateway Dashboard 개요
 
 **작성일**: 2026-01-28  

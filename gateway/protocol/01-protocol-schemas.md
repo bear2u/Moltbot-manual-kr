@@ -1,3 +1,8 @@
+---
+layout: default
+title: Protocol Schemas
+---
+
 # 프로토콜 스키마 상세
 
 **작성일**: 2026-01-28  

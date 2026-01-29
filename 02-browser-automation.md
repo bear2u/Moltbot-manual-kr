@@ -1,3 +1,8 @@
+---
+layout: default
+title: Browser Automation
+---
+
 # 브라우저 자동화 시스템 상세 분석
 
 **작성일**: 2026-01-28  

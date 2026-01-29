@@ -1,3 +1,8 @@
+---
+layout: default
+title: Protocol Overview
+---
+
 # Gateway 프로토콜 개요
 
 **작성일**: 2026-01-28  
