@@ -3,8 +3,6 @@ layout: default
 title: Moltbot 한국어 매뉴얼
 ---
 
-# Moltbot 한국어 매뉴얼
-
 **최종 업데이트**: 2026-01-28
 
 이 사이트는 Moltbot 프로젝트의 주요 컴포넌트에 대한 상세한 기술 문서를 제공합니다.
